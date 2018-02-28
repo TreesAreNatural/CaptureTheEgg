@@ -1,6 +1,5 @@
 package captureTheFlag;
 
-import GridWorld.*;
 import info.gridworld.actor.*;
 import info.gridworld.grid.BoundedGrid;
 import info.gridworld.grid.Location;
